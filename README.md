@@ -16,9 +16,9 @@
 
 2023-10-20 setting up Github profile/ Digital Portfolio
 
-overview on Project Managment, keywords of existential risks and digital identities, finding a research questions
+2023-10-27 overview on Project Managment, keywords of existential risks and digital identities, finding a research questions
 
-overview on Content Production
+2023-11-03 overview on Content Production, ways to produce content through audio/visuals
 
 
 
