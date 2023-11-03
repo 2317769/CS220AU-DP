@@ -12,7 +12,21 @@
 5. ... 
 
 ## Log
- 2023-10-13
- 2023-10-20
-2023-11-03 - types of content and how to produce content through visual and audio content
+2023-10-13 overview of digital identies
+
+2023-10-20 setting up Github profile/ Digital Portfolio
+
+overview on Project Managment, keywords of existential risks and digital identities, finding a research questions
+
+overview on Content Production
+
+
+
+
+
+
+
+
+
+
 
