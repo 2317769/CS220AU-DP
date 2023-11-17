@@ -6,7 +6,7 @@ keywords: Artificial Intelligence, AI, Existential Risks, Digital Identities, 80
 ## Introduction
 [This](assessement.md) is an internal link to another page on your site. 
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
+And [this]( https://navigatingthedigitalworld.com/docs/cs220) is an external link to web page on another website. 
 
 ## Main Body
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
