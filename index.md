@@ -1,5 +1,5 @@
 # How does AI serve as a risk to our Digital Identities & Existence
-2023-11-17
+2023-11-17 (Friday)
 
 ## Hyperlinks
 [This](checklist.md) is an internal link to another page on your site. 
