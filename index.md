@@ -17,6 +17,9 @@ Below you see an example of embedding an image that is found in another reposito
 
 ![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
 
+
+
+
 ## Conclusion
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
