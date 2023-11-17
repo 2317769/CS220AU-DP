@@ -1,4 +1,4 @@
-# Jakes Digital Portfollo
+# Jakes Digital Portfolio
 
 ## Overview
 
