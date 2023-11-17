@@ -20,7 +20,7 @@
 
 2023-11-03 overview on Content Production, ways to produce content through audio/visuals
 
-2023-11-17 Presented Powerpoint of my understanding of Existenial Risks/Digital Identities
+2023-11-17 Presented Powerpoint of my understanding of Existenial Risks/Digital Identities + how to use Quilbot
 
 
 
