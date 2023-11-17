@@ -9,7 +9,7 @@
 2. continuously update the Tasks and Log headings to reflect your progress
 3. Create a Presentation on what i have learned 
 4. present Powerpoint or understanding of what i have learned
-5. Find articles which  prove that AI is mainly being seen for benefits not the risks
+5. Find articles which  prove that AI is mainly being seen for benefits not the risks ( How will i be able to link AI causing other existential risks)
 
 ## Log
 2023-10-13 overview of digital identies
