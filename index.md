@@ -1,5 +1,5 @@
 # How does AI serve as a risk to our Digital Identities & Existence
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+2023-11-17
 
 ## Hyperlinks
 [This](checklist.md) is an internal link to another page on your site. 
