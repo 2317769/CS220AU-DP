@@ -26,7 +26,7 @@
 
 2023-11-18 Added notes/articles into my Notion folder about Artificial Intelligence and how it impacts our existence
 
-2023-12-01 Full understanding of how to upload to assets folder and sub folder of img and how to upload images on index.md + more reasearch and finding of articles towards my portfolio
+2023-12-01 Full understanding of how to upload to assets folder and sub folder of img and how to upload images on index.md + more reasearch and finding of articles towards my portfolio + found a peer
 
 
 
