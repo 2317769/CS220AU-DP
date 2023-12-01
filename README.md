@@ -25,6 +25,8 @@
 
 2023-11-17 Presented Powerpoint of my understanding of Existenial Risks/Digital Identities + how to use Quilbot + working on index.md
 
+2023-11-18 Added notes/articles into my Notion folder about Artificial Intelligence and how it impacts our existence
+
 
 
 
