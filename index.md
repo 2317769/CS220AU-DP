@@ -15,7 +15,7 @@ Below you see an example of embedding an image that is found in this repository'
 
 Below you see an example of embedding an image that is found in another repository:
 
-![](https://github.com/2317769/CS220AU-DP/blob/main/assets/istockphoto-1483013789-1024x1024.jpg). 
+![Ai with Human](aihuman2.webp)
 
 
 
