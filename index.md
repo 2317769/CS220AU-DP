@@ -15,8 +15,7 @@ Below you see an example of embedding an image that is found in this repository'
 
 Below you see an example of embedding an image that is found in another repository:
 
-![Ai with Human](aihuman2.webp)
-
+![robot finger](assets/img/ey-robot-finger-about-to-touch-human-finger.jpg) 
 
 
 
