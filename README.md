@@ -7,9 +7,8 @@
 ## Tasks
 1.  Find articles which  prove that AI is mainly being seen for benefits not the risks ( How will i be able to link AI causing other existential risks)
 2. continuously update the Tasks and Log headings to reflect your progress
-3. reteach on how to insert images/references
-4. find a peer partner to peer assess for Digital Portfolio due for 18th January 2024
-5. 
+3. find a peer partner to peer assess for Digital Portfolio due for 18th January 2024
+4. 
 
    
   
