@@ -1,4 +1,4 @@
-# How does AI serve as a risk to our Digital Identities & Existence
+# How does AI serve as a risk to our existence?
 17th Nov 2023
 
 keywords: Artificial Intelligence, AI, Existential Risks, Digital Identities, 80,000 Hours, Benefits, investment, humanity,human intelligence
