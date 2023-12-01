@@ -12,6 +12,7 @@
 5. Find articles which  prove that AI is mainly being seen for benefits not the risks ( How will i be able to link AI causing other existential risks)
 6. reteach on how to insert images/references
 7. find a peer partner to peer assess for Digital Portfolio due for 18th January 2024
+8. Start working on Digital Portfolio starting from after 1st Dec 2024 Lecture
 
 ## Log
 2023-10-13 overview of digital identies
