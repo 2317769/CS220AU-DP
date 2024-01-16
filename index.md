@@ -1,19 +1,13 @@
-# How does AI serve as a risk to our existence?
+# How does AI serve as a existenial risk to our existence?
 17th Nov 2023
 
 keywords: Artificial Intelligence, AI, Existential Risks, Digital Identities, 80,000 Hours, Benefits, investment, humanity,human intelligence
 
-## Introduction
-[This](assessement.md) is an internal link to another page on your site. 
+## What is an existential risk?
+ [Britannica](https://www.britannica.com/dictionary/eb/qa/the-meaning-of-existential#:~:text=The%20first%20phrase%2C%20existential%20threat%2C%20is%20used%20in,a%20threat%20to%20a%20people%E2%80%99s%20existence%20or%20survival.) defines an existential risk as a risk that poses a serious threat to the existence of humans or their survival. Examples of existential risks can be seen through nuclear war, climate change, global pandemics, political corruption, artificial intelligence (AI), and more. It is important that existential risks are taken seriously and that risk assessments are put into practice since existential risks can potentially cause the extinction of humans. Other than this, existential risks can impact the intelligence of humans; in particular, this is associated with AI, which will be the main focus of this writing.
 
-And [this]( https://navigatingthedigitalworld.com/docs/cs220) is an external link to web page on another website. 
-
-## Main Body
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
-
-![Plain VR map](assets/img/vr-map-plain.svg)
-
-Below you see an example of embedding an image that is found in another repository:
+## What is Artifical Intelligence(AI)
+[Britannica](https://www.britannica.com/technology/artificial-intelligence) defines AI as technological systems that are able to complete tasks that required human intelligence. Artifical Intelligence emerged from the 1950s which is closely associated by computer scientists Alan Turing and John Mccarthy, they have been announced as the 'Fathers of AI' due to them bringing the first foundation of AI through 'thinking machines'. Organizations that are associated with AI include OpenAI,Apple,Google,Nvidia and more. AI can perform things such as figure out complex questions/answers this can be seen through [ChatGPT](https://openai.com/chatgpt), Create Images this can be seen through [DALL.E2](https://openai.com/dall-e-2)
 
 ![robot finger](assets/img/ey-robot-finger-about-to-touch-human-finger.jpg) 
 
