@@ -49,10 +49,11 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
+| 1.1       |     |     |     |  o  |     |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
+| 2.1       |     |     |     |  o  |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |     |  o  |     |
 
 Feedback given by: 2203608 17/01/24
+'Clearly, he has a really good understanding of the project as a whole, as you can see that a lot of effort was put into the whole website. It has a well-thought-out presentation; as you can see, it is very professional and very clean, very clearly showing the information and where all of it was collected from. It shows us different types of sources that support his topic, like the YouTube video included, which is an excellent alternative way to show the person looking through the website because instead of having someone read the whole thing, you also include some visual cues so that it helps to gain the person's attention even more. He also shows us real-life examples of AI having a negative effect on someone. In the example of the grandmother, he shows us the ways that AI has been affecting someone, talks us through them, and explains to us the situation very thoroughly. The only real negative that I can see when looking through it is that it seems like there might be a bit too many topics that were talked about. I wish that you focused a bit more on fewer topics and expanded the ones that you did have a little more. But apart from that little negative, I think that the work that has been put in has been done really well, and the effort that has been put into it is a lot, and it is clear to see that this is a topic that has been understood really well'.
