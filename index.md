@@ -29,7 +29,14 @@ This poses a risk since funds could have been used in other ways to support huma
 
 Another reason why AI poses a risk is due to the lack of coverage and research that is being done to make AI safe for humans. AI is overlooked for all the good things it can do and acheive in the future, making people fail to acknowledge the dangers behind it. The article [80,000 Hours](https://80000hours.org/problem-profiles/artificial-intelligence/#neglectedness) suggests that an average of 400 people worldwide are aware of the dangers of AI and are working on ways to make AI safe. This is very low considering the world's population. It appears as if the dangers of AI have been neglected.
 
-Moreover, AI poses as a risk as it is able to perform elements of identify theft or fraud. AI has advanced in a way in which it can now impersonate people by their voices, looks etc. Recently, this has been exploited by criminals to clone voices and to create fake profiles in order to perform crimes, predominately identity related. For example [The 89 year old lady who was scammed of $14,000 through fake AI-call impersonating her grandson](https://www.insideedition.com/media/videos/california-grandma-scammed-out-of-14000-by-caller-who-impersonated-grandson-81908) Due to how advanced the technology of AI is, the grandma was not able to tell the difference between her grandson's voice and the AI voice impersonating her grandson. Although, there are now articles spreading awareness of how to avoid being scammed by AI impersonators, they stress on the importance of how there isn't a complete solution to avoid them; [How to protect yourself from voice scams](https://www.msn.com/en-my/news/other/how-to-protect-yourself-from-ai-voice-scams-6-tips-to-follow-to-stay-safe/ar-AA1mBjlI) 
+Moreover, AI poses as a risk as it is able to perform elements of identify theft or fraud. AI has advanced in a way in which it can now impersonate people by their voices, looks etc. Recently, this has been exploited by criminals to clone voices and to create fake profiles in order to perform crimes, predominately identity related. For example [The 89 year old lady who was scammed of $14,000 through fake AI-call impersonating her grandson](https://www.insideedition.com/media/videos/california-grandma-scammed-out-of-14000-by-caller-who-impersonated-grandson-81908) 
+
+
+
+
+
+
+Due to how advanced the technology of AI is, the grandma was not able to tell the difference between her grandson's voice and the AI voice impersonating her grandson. Although, there are now articles spreading awareness of how to avoid being scammed by AI impersonators, they stress on the importance of how there isn't a complete solution to avoid them; [How to protect yourself from voice scams](https://www.msn.com/en-my/news/other/how-to-protect-yourself-from-ai-voice-scams-6-tips-to-follow-to-stay-safe/ar-AA1mBjlI) 
 
 
 
