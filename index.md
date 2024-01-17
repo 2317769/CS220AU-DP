@@ -38,7 +38,7 @@ Moreover, AI poses a risk as it is able to perform elements of identify theft or
 
 Due to how advanced the technology of AI has become, the grandma was not able to tell the difference between her grandson's voice and the AI voice impersonating her grandson. Although there are now articles spreading awareness of how to avoid being scammed by AI impersonators, they stress the importance of how there isn't a complete solution to avoid them, proving how dangerous AI has become. [How to protect yourself from voice scams](https://www.msn.com/en-my/news/other/how-to-protect-yourself-from-ai-voice-scams-6-tips-to-follow-to-stay-safe/ar-AA1mBjlI) 
 
-
+Lastly, AI poses a risk to people's jobs. AI being able to work is seen as a good thing as it prevents businesses from having a shortage of workers, allows harder jobs to be taken up by AI, etc, but because of AI's advancements, the more it advances, the more jobs AI can take and the fewer humans are needed to work. The replacement of jobs can have a negative impact on people's lives, making it harder for people to provide for their families, to find other jobs, etc. It would raise a lot of questions about the education system too, since people generally go through an average of 16-23 years of education to obtain a job. If AI were replacing jobs what would that mean for the education boundaries for certain jobs? It would be  pointless, as jobs would be taken by AI. It is estimated by the IMF (International Monetary Fund) that [40% of the workforce will be replaced by AI and will also worsen inequality] (https://www.bbc.co.uk/news/business-67977967) The replacing of jobs would negatively impact older-workers and low-income workers the most, but widely impact people worldwide in general.
 
 
 
@@ -50,11 +50,10 @@ Due to how advanced the technology of AI has become, the grandma was not able to
 
 
 ## Conclusion
+As a result, when considering the question of whether AI is an threat towards existence, it would be hard to deny due to all the risks it poses as mentioned through; investments,lack of research to make AI safe,the ability to be used in crime and replacing people's jobs. However, it cannot be denied that AI is able to perform some beneficial things towards humanity, but the main problem that stems as to why AI is an threat to existence is due to overestimation of AI. We as humans have been blinded for all the great things that AI can do which has drifted us from the idea of what bad things AI can do, there is a lack of consideration for risk assessments and safety measures on AI, which explains why data cannot be seen about making AI safe for existence. Therfore, considering everything together, AI is definitely a existential threat and requires serious measures.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## References 
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
+
 
 
 
