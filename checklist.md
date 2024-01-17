@@ -13,7 +13,7 @@ I have ensured that:
 
 ### Website
 - [x] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
-- [ ] I have provided a URL to my website in my repository's sidebar
+- [x] I have provided a URL to my website in my repository's sidebar
 
 ### Self- and peer-assessment
 In the `assessment.md` file:
@@ -23,4 +23,4 @@ In the `assessment.md` file:
 - [ ] I filled out my peer-assessment table and added around 250-word feedback provided by a classmate in my group
 - [ ] I have provided feedback for at least one student in my group after reviewing the marking rubric
 
-The student registration number(s) of the student(s) I provided feedback for is/are: <!-- add student number --> 
+The student registration number(s) of the student(s) I provided feedback for is/are: 2203608
