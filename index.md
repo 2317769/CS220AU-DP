@@ -19,7 +19,7 @@ For AI to continue growing in skill and ability it requires, investments. In 201
 
 ![robot finger](assets/img/ey-robot-finger-about-to-touch-human-finger.jpg) 
 
-AI proposes multiple risks to the existence of humanity.Starting off, with the funding for AI. The funding for AI is very costly, causing billions to be spent annually to fund AI improvement. For example, the graph below shows [Funding for AI startup companies worldwide from 2020-2023](https://www.statista.com/statistics/1344128/worldwide-artificial-intelligence-startup-company-funding-by-quarter/). It can be seen that funding is increasing and costing more money; in particular in 2021, a estmimated amount of $72.1 billion was spent on AI. Annually, the expenditure on AI is costing more money since 2019.
+AI proposes multiple risks to the existence of humanity.Starting off, with the funding for AI. The funding for AI is very costly, causing billions to be spent annually to fund AI improvement. For example, the graph below shows [Funding for AI startup companies worldwide from 2019-2023](https://www.statista.com/statistics/1344128/worldwide-artificial-intelligence-startup-company-funding-by-quarter/). It can be seen that funding is increasing and costing more money; in particular in 2021, a estmimated amount of $72.1 billion was spent on AI. Annually, the expenditure on AI is costing more money since 2019.
 
 
 
