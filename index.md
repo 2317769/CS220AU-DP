@@ -16,8 +16,18 @@ For AI to continue growing in skill and ability it requires, investments. In 201
 
 
 ## How is AI an existential risk?
-AI proposes multiple risks towards the existence of humanity.Starting off, with the funding for AI. The funding for AI is very costly causing billions to be spent annually to fund for AI improvement. 
 
+![robot finger](assets/img/ey-robot-finger-about-to-touch-human-finger.jpg) 
+
+AI proposes multiple risks to the existence of humanity.Starting off, with the funding for AI. The funding for AI is very costly, causing billions to be spent annually to fund AI improvement. For example, the graph below shows [Funding for AI startup companies worldwide from 2020-2023](https://www.statista.com/statistics/1344128/worldwide-artificial-intelligence-startup-company-funding-by-quarter/). It can be seen that funding is increasing and costing more money; in particular in 2021, a estmimated amount of $72.1 billion was spent on AI. Annually, the expenditure on AI is costing more money since 2019.
+
+
+
+![fund for AI](assets/img/funding20192023.jpg) 
+
+This poses a risk since funds could have been used in other ways to support humanity, for example, through the publishing of houses, funding for health care, food, and other resources to live, etc. Another way AI funding  poses as a risk is due to the fact that funding isn't being spent on any protocols to prevent AI from being dangerous, but instead to make AI stronger. There is a lack of data in terms of finding how much is being invested into any protocols to stop AI from being dangerous; this in itself shows the lack of interest or seriousness in making AI safe for humanity. Investments to make AI safe are unheard of. 
+
+Another reason why AI poses a risk is due to the lack of coverage and research that is being done to make AI safe for humans. AI is overlooked for all the good things it can do and acheive in the future, making people fail to acknowledge the dangers behind it. The article [80,000 Hours](https://80000hours.org/problem-profiles/artificial-intelligence/#neglectedness) suggests that an average of 400 people worldwide are aware of the dangers of AI and are working on ways to make AI safe. This is very low considering the world's population. It appears as if the dangers of AI have been neglected.
 
 
 
